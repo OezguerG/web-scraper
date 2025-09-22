@@ -19,16 +19,14 @@ pip install -r requirements.txt
 ---
 
 ## Nutzung
-python run_spider.py   # Daten scrapen  
-python clean.py        # Daten bereinigen  
-python processor.py    # Analysen durchführen  
-python visualize.py    # Diagramme erstellen  
+python main.py
 
 ---
 
 ## Technologien
 - Python 3  
 - Scrapy  
+- Selenium
 - Pandas  
 - Matplotlib  
 - Jupyter Notebook  
