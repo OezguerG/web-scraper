@@ -1,0 +1,601 @@
+Rank,Title,Budget,Genre
+201,The Croods,"$135,000,000",Adventure Animation Comedy Family Fantasy
+202,The Hangover Part II,"$80,000,000",Comedy
+203,Iron Man,"$140,000,000",Action Adventure Sci-Fi
+204,I Am Legend,"$150,000,000",Drama Horror Sci-Fi Thriller
+205,"Monsters, Inc.","$115,000,000",Adventure Animation Comedy Family Fantasy
+206,Operation Red Sea,N/A,Action Drama Thriller War
+207,Mission: Impossible - The Final Reckoning,N/A,Action Adventure Thriller
+208,Night at the Museum,N/A,Adventure Comedy Family Fantasy
+209,Godzilla x Kong: The New Empire,N/A,Action Adventure Fantasy Sci-Fi Thriller
+210,Mission: Impossible - Dead Reckoning Part One,"$291,000,000",Action Adventure Thriller
+211,Fifty Shades of Grey,"$40,000,000",Drama Romance Thriller
+212,The Little Mermaid,N/A,Adventure Family Fantasy Musical Romance
+213,Kong: Skull Island,"$185,000,000",Action Adventure Fantasy Sci-Fi
+214,The Smurfs,"$110,000,000",Adventure Animation Comedy Family Fantasy
+215,Cars 2,"$200,000,000",Adventure Animation Comedy Crime Family Sci-Fi Sport
+216,King Kong,"$207,000,000",Action Adventure Romance
+217,Puss in Boots,"$130,000,000",Action Adventure Animation Comedy Family Fantasy
+218,The Mermaid,N/A,Comedy Drama Fantasy Romance
+219,Armageddon,"$140,000,000",Action Adventure Sci-Fi Thriller
+220,The Day After Tomorrow,"$125,000,000",Action Adventure Sci-Fi Thriller
+221,Star Wars: Episode V - The Empire Strikes Back,"$18,000,000",Action Adventure Fantasy Sci-Fi
+222,Ted,"$50,000,000",Comedy
+223,Kung Fu Panda 4,N/A,Action Adventure Animation Comedy Family Fantasy Thriller
+224,American Sniper,"$58,800,000",Action Biography Drama War
+225,Mission: Impossible II,"$125,000,000",Action Adventure Thriller
+226,Detective Chinatown 2,N/A,Action Comedy Mystery
+227,Despicable Me,"$69,000,000",Adventure Animation Comedy Crime Family Sci-Fi
+228,X-Men: Apocalypse,"$178,000,000",Action Adventure Sci-Fi
+229,Sherlock Holmes: A Game of Shadows,N/A,Action Adventure Mystery
+230,Cinderella,"$95,000,000",Adventure Drama Family Fantasy Romance
+231,Madagascar,N/A,Adventure Animation Comedy Family
+232,Hotel Transylvania 3: Summer Vacation,"$80,000,000",Adventure Animation Comedy Family Fantasy
+233,World War Z,"$190,000,000",Action Adventure Horror Sci-Fi
+234,How to Train Your Dragon: The Hidden World,"$129,000,000",Action Adventure Animation Comedy Drama Family Fantasy
+235,The Grinch,"$75,000,000",Animation Comedy Family Fantasy
+236,Brave,"$185,000,000",Action Adventure Animation Comedy Drama Family Fantasy Mystery
+237,The Simpsons Movie,"$75,000,000",Adventure Animation Comedy
+238,Dunkirk,"$100,000,000",Action Drama History Thriller War
+239,The Revenant,"$135,000,000",Adventure Drama Western
+240,No More Bets,N/A,Crime Drama
+241,The Meg,"$130,000,000",Action Horror Sci-Fi Thriller
+242,Ralph Breaks the Internet,"$175,000,000",Adventure Animation Comedy Family Fantasy Sci-Fi Sport
+243,The Boss Baby,N/A,Adventure Animation Comedy Family Fantasy
+244,WALL·E,"$180,000,000",Adventure Animation Family Sci-Fi
+245,Godzilla,"$160,000,000",Action Adventure Sci-Fi Thriller
+246,Sherlock Holmes,"$90,000,000",Action Adventure Mystery
+247,Meet the Fockers,"$80,000,000",Comedy Romance
+248,Kung Fu Panda 3,"$145,000,000",Action Adventure Animation Comedy Family Fantasy
+249,How to Train Your Dragon,N/A,Action Adventure Comedy Drama Family Fantasy Sci-Fi
+250,Ant-Man,"$130,000,000",Action Comedy Sci-Fi
+251,Terminator 2: Judgment Day,"$102,000,000",Action Adventure Sci-Fi
+252,La La Land,"$30,000,000",Comedy Drama Music Musical Romance
+253,Venom: Let There Be Carnage,N/A,Action Sci-Fi Thriller
+254,Ghost,"$22,000,000",Drama Fantasy Romance Thriller
+255,Aladdin,"$28,000,000",Adventure Animation Comedy Family Fantasy Musical Romance
+256,Rio 2,"$103,000,000",Adventure Animation Comedy Family Music Musical Romance
+257,Troy,"$175,000,000",Action Adventure Drama
+258,Toy Story 2,"$90,000,000",Adventure Animation Comedy Family Fantasy
+259,Elemental,N/A,Adventure Animation Comedy Family Fantasy Romance
+260,How to Train Your Dragon,"$165,000,000",Action Adventure Animation Family Fantasy
+261,Twister,"$92,000,000",Action Adventure Thriller
+262,Oz the Great and Powerful,"$215,000,000",Adventure Family Fantasy
+263,Clash of the Titans,"$125,000,000",Action Adventure Fantasy
+264,Sonic the Hedgehog 3,N/A,Action Adventure Comedy Family Fantasy Sci-Fi
+265,Maleficent: Mistress of Evil,"$185,000,000",Adventure Drama Family Fantasy Romance
+266,War for the Planet of the Apes,"$150,000,000",Action Adventure Drama Sci-Fi Thriller
+267,Shrek,"$60,000,000",Adventure Animation Comedy Family Fantasy Romance
+268,Lost in the Stars,N/A,Crime Drama Mystery
+269,Mr. & Mrs. Smith,"$110,000,000",Action Comedy Crime Thriller
+270,Angels & Demons,"$150,000,000",Mystery Thriller
+271,Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,N/A,Action Adventure Animation Fantasy Thriller
+272,Teenage Mutant Ninja Turtles,"$125,000,000",Action Adventure Comedy Crime Fantasy Sci-Fi
+273,Bruce Almighty,"$81,000,000",Comedy Fantasy
+274,Rio,"$90,000,000",Adventure Animation Comedy Family Music Musical Romance
+275,Star Wars: Episode VI - Return of the Jedi,"$32,500,000",Action Adventure Fantasy Sci-Fi
+276,Saving Private Ryan,"$70,000,000",Drama War
+277,Rise of the Planet of the Apes,"$93,000,000",Action Drama Sci-Fi Thriller
+278,Puss in Boots: The Last Wish,N/A,Action Adventure Animation Comedy Family Fantasy
+279,Venom: The Last Dance,N/A,Action Adventure Sci-Fi Thriller
+280,Jaws,"$7,000,000",Adventure Horror Thriller
+281,Home Alone,"$18,000,000",Comedy Family
+282,Ant-Man and the Wasp: Quantumania,N/A,Action Adventure Comedy Sci-Fi
+283,Hotel Transylvania 2,"$80,000,000",Adventure Animation Comedy Family Fantasy Romance
+284,Charlie and the Chocolate Factory,"$150,000,000",Adventure Comedy Family Fantasy Musical
+285,San Andreas,"$110,000,000",Action Adventure Thriller
+286,Indiana Jones and the Last Crusade,"$48,000,000",Action Adventure
+287,It: Chapter Two,"$79,000,000",Drama Fantasy Horror
+288,The Greatest Showman,"$84,000,000",Biography Drama Musical
+289,Wreck-It Ralph,"$165,000,000",Adventure Animation Comedy Family Fantasy Sci-Fi Sport
+290,The Lego Movie,"$60,000,000",Action Adventure Animation Comedy Family Fantasy Sci-Fi
+291,Godzilla vs. Kong,N/A,Action Sci-Fi Thriller
+292,The Hangover,"$35,000,000",Comedy
+293,Lucy,"$40,000,000",Action Sci-Fi Thriller
+294,Bumblebee,"$135,000,000",Action Adventure Sci-Fi
+295,The Matrix,"$63,000,000",Action Sci-Fi
+296,Star Trek Into Darkness,"$190,000,000",Action Adventure Sci-Fi
+297,Gladiator,"$103,000,000",Action Adventure Drama
+298,Pretty Woman,"$14,000,000",Comedy Romance
+299,Gladiator II,N/A,Action Adventure Drama
+300,Cars,"$120,000,000",Adventure Animation Comedy Family Sport
+301,The Eight Hundred,N/A,History War
+302,X-Men: The Last Stand,"$210,000,000",Action Adventure Sci-Fi
+303,Moon Man,N/A,Comedy Sci-Fi
+304,National Treasure: Book of Secrets,N/A,Action Adventure Mystery Thriller
+305,Mission: Impossible,"$80,000,000",Action Adventure Thriller
+306,300,"$65,000,000",Action Drama
+307,The Last Samurai,"$140,000,000",Action Drama
+308,Beetlejuice Beetlejuice,N/A,Comedy Fantasy Horror
+309,Beauty and the Beast,"$25,000,000",Animation Family Fantasy Musical Romance
+310,Dying to Survive,N/A,Comedy Drama
+311,Ocean's Eleven,"$85,000,000",Crime Thriller
+312,"My People, My Country",N/A,Drama History
+313,Pokémon: Detective Pikachu,"$150,000,000",Adventure Comedy Family Mystery Sci-Fi
+314,Thor,"$150,000,000",Action Fantasy
+315,Pearl Harbor,"$140,000,000",Action Drama Romance War
+316,Tarzan,"$130,000,000",Adventure Animation Comedy Drama Family Music
+317,John Wick: Chapter 4,N/A,Action Crime Thriller
+318,1917,"$95,000,000",Action Drama War
+319,Men in Black II,"$140,000,000",Action Adventure Comedy Mystery Sci-Fi
+320,The Mummy Returns,"$98,000,000",Action Adventure Fantasy Thriller
+321,Alvin and the Chipmunks: The Squeakquel,"$75,000,000",Adventure Animation Comedy Family Fantasy Music Musical
+322,The Bourne Ultimatum,"$110,000,000",Action Mystery Thriller
+323,Les Misérables,"$61,000,000",Drama Musical Romance
+324,Transformers: Rise of the Beasts,N/A,Action Adventure Sci-Fi
+325,Mrs. Doubtfire,"$25,000,000",Comedy Drama Family
+326,Terminator Genisys,"$155,000,000",Action Adventure Sci-Fi Thriller
+327,Aquaman and the Lost Kingdom,N/A,Action Adventure Fantasy Sci-Fi
+328,Warcraft,"$160,000,000",Action Adventure Fantasy
+329,A Star Is Born,"$36,000,000",Drama Music Romance
+330,Yolo,N/A,Action Comedy Drama Sport
+331,Terminator 3: Rise of the Machines,"$200,000,000",Action Sci-Fi
+332,Shang-Chi and the Legend of the Ten Rings,N/A,Action Adventure Fantasy Sci-Fi
+333,Die Another Day,"$142,000,000",Action Adventure Thriller
+334,The Secret Life of Pets 2,"$80,000,000",Adventure Animation Comedy Family
+335,The Exorcist,"$11,000,000",Horror
+336,Cast Away,"$90,000,000",Adventure Drama Romance
+337,Rampage,"$120,000,000",Action Adventure Sci-Fi
+338,The Matrix Revolutions,"$150,000,000",Action Sci-Fi
+339,The Intouchables,N/A,Comedy Drama
+340,Bad Boys for Life,"$90,000,000",Action Comedy Crime Thriller
+341,Django Unchained,"$100,000,000",Drama Western
+342,Dances with Wolves,"$22,000,000",Adventure Drama Western
+343,Pegasus 2,N/A,Comedy Drama Sport
+344,"My People, My Homeland",N/A,Drama
+345,Successor,N/A,Comedy Drama
+346,The Chronicles of Narnia: Prince Caspian,"$225,000,000",Action Adventure Family Fantasy
+347,Sex and the City,"$65,000,000",Comedy Drama Romance
+348,The Captain,N/A,Action Adventure Drama Family Thriller
+349,The Mummy,"$80,000,000",Action Adventure Fantasy
+350,The Chronicles of Narnia: The Voyage of the Dawn Treader,"$155,000,000",Adventure Family Fantasy
+351,Jason Bourne,"$120,000,000",Action Thriller
+352,Captain America: Brave New World,N/A,Action Adventure Sci-Fi
+353,The Wolverine,"$120,000,000",Action Sci-Fi
+354,Kingsman: The Secret Service,"$81,000,000",Action Adventure Comedy Thriller
+355,The King's Speech,"$15,000,000",Biography Drama History
+356,Night at the Museum: Battle of the Smithsonian,"$150,000,000",Adventure Comedy Family Fantasy
+357,Batman,"$35,000,000",Action Adventure
+358,The Bodyguard,N/A,Drama Music Romance Thriller
+359,Pacific Rim,"$190,000,000",Action Adventure Sci-Fi
+360,Kingsman: The Golden Circle,"$104,000,000",Action Adventure Comedy Crime Thriller
+361,Dune: Part One,N/A,Action Adventure Drama Sci-Fi
+362,The Mummy,"$125,000,000",Action Adventure Fantasy Horror Thriller
+363,Ice Age: Collision Course,"$105,000,000",Adventure Animation Comedy Family Sci-Fi
+364,Twilight,"$37,000,000",Drama Fantasy Romance
+365,Sing 2,N/A,Adventure Animation Comedy Family Musical
+366,Signs,"$72,000,000",Drama Mystery Sci-Fi Thriller
+367,X2: X-Men United,"$110,000,000",Action Sci-Fi Thriller
+368,Fantastic Beasts: The Secrets of Dumbledore,N/A,Adventure Fantasy
+369,Uncharted,N/A,Action Adventure
+370,The Wolf of Wall Street,"$100,000,000",Biography Comedy Crime Drama
+371,Sonic the Hedgehog 2,N/A,Action Adventure Comedy Family Fantasy Sci-Fi
+372,Your Name.,N/A,Animation Drama Fantasy Romance
+373,Alita: Battle Angel,"$170,000,000",Action Adventure Sci-Fi Thriller
+374,Bad Boys: Ride or Die,N/A,Action Adventure Comedy Crime Thriller
+375,The Mummy: Tomb of the Dragon Emperor,"$145,000,000",Action Adventure Fantasy Horror
+376,Prometheus,"$130,000,000",Adventure Mystery Sci-Fi
+377,Gone with the Wind,N/A,Drama Romance War
+378,Eternals,N/A,Action Adventure Fantasy Sci-Fi
+379,Tron: Legacy,"$170,000,000",Action Adventure Sci-Fi
+380,Mission: Impossible III,"$150,000,000",Action Adventure Thriller
+381,Meg 2: The Trench,N/A,Action Adventure Horror Sci-Fi Thriller
+382,Kingdom of the Planet of the Apes,N/A,Action Adventure Drama Sci-Fi Thriller
+383,Snow White and the Huntsman,"$170,000,000",Action Adventure Drama Fantasy
+384,Grease,"$6,000,000",Comedy Musical Romance
+385,Mamma Mia! Here We Go Again,"$75,000,000",Comedy Musical Romance
+386,Toy Story,N/A,Adventure Animation Comedy Family Fantasy
+387,Spider-Man: Into the Spider-Verse,"$90,000,000",Action Adventure Animation Comedy Family Fantasy Sci-Fi
+388,Black Adam,N/A,Action Adventure Fantasy Sci-Fi
+389,Solo: A Star Wars Story,"$275,000,000",Action Adventure Sci-Fi
+1,Avatar,"$237,000,000",Action Adventure Fantasy Sci-Fi
+2,Avengers: Endgame,"$356,000,000",Action Adventure Sci-Fi
+3,Avatar: The Way of Water,N/A,Action Adventure Fantasy Sci-Fi
+4,Titanic,"$200,000,000",Drama Romance
+5,Star Wars: Episode VII - The Force Awakens,"$245,000,000",Action Adventure Sci-Fi
+6,Avengers: Infinity War,N/A,Action Adventure Sci-Fi
+7,Spider-Man: No Way Home,N/A,Action Adventure Fantasy Sci-Fi
+8,Ne Zha 2,N/A,Action Adventure Animation Drama Fantasy
+9,Inside Out 2,N/A,Adventure Animation Comedy Drama Family Fantasy
+10,Jurassic World,"$150,000,000",Action Adventure Sci-Fi
+11,The Lion King,"$260,000,000",Adventure Animation Drama Family Musical
+12,The Avengers,"$220,000,000",Action Sci-Fi
+13,Furious 7,"$190,000,000",Action Thriller
+14,Top Gun: Maverick,N/A,Action Drama
+15,Frozen II,"$150,000,000",Adventure Animation Comedy Drama Family Fantasy Musical
+16,Barbie,N/A,Adventure Comedy Fantasy
+17,Avengers: Age of Ultron,"$250,000,000",Action Adventure Sci-Fi
+390,Once Upon a Time... in Hollywood,"$90,000,000",Comedy Drama
+391,Superman Returns,"$270,000,000",Action Adventure Sci-Fi
+392,Robin Hood: Prince of Thieves,"$48,000,000",Action Adventure Drama Romance
+393,Raiders of the Lost Ark,"$18,000,000",Action Adventure
+394,Independence Day: Resurgence,"$165,000,000",Action Adventure Sci-Fi
+395,Live Free or Die Hard,"$110,000,000",Action Thriller
+396,Godzilla: King of the Monsters,"$170,000,000",Action Adventure Fantasy Sci-Fi
+397,Monster Hunt,N/A,Action Adventure Comedy Fantasy
+398,Home,"$135,000,000",Adventure Animation Comedy Family Fantasy Musical Sci-Fi
+399,Star Trek,"$150,000,000",Action Adventure Sci-Fi
+400,Back to the Future,"$19,000,000",Adventure Comedy Sci-Fi
+18,The Super Mario Bros. Movie,N/A,Adventure Animation Comedy Family Fantasy
+19,Black Panther,N/A,Action Adventure Sci-Fi
+20,Harry Potter and the Deathly Hallows: Part 2,N/A,Adventure Family Fantasy Mystery
+21,Deadpool & Wolverine,N/A,Action Adventure Comedy Sci-Fi
+22,Star Wars: Episode VIII - The Last Jedi,"$317,000,000",Action Adventure Fantasy Sci-Fi
+23,Jurassic World: Fallen Kingdom,"$170,000,000",Action Adventure Sci-Fi
+24,Frozen,"$150,000,000",Adventure Animation Comedy Family Fantasy Musical
+25,Beauty and the Beast,"$160,000,000",Adventure Family Fantasy Musical Romance
+26,Incredibles 2,N/A,Action Adventure Animation Comedy Family Sci-Fi Thriller
+27,The Fate of the Furious,"$250,000,000",Action Crime Thriller
+28,Iron Man 3,"$200,000,000",Action Adventure Sci-Fi
+29,Minions,"$74,000,000",Adventure Animation Comedy Crime Family Sci-Fi
+30,Captain America: Civil War,"$250,000,000",Action Sci-Fi
+31,Aquaman,N/A,Action Adventure Fantasy Sci-Fi
+32,The Lord of the Rings: The Return of the King,"$94,000,000",Adventure Drama Fantasy
+33,Spider-Man: Far from Home,"$160,000,000",Action Adventure Comedy Fantasy Sci-Fi
+34,Captain Marvel,"$160,000,000",Action Adventure Sci-Fi
+35,Transformers: Dark of the Moon,"$195,000,000",Action Adventure Comedy Sci-Fi Thriller
+36,The Dark Knight Rises,"$250,000,000",Action Crime Drama Thriller
+37,Skyfall,"$200,000,000",Action Adventure Thriller
+38,Transformers: Age of Extinction,"$210,000,000",Action Adventure Comedy Sci-Fi Thriller
+39,Jurassic Park,"$63,000,000",Action Adventure Sci-Fi Thriller
+40,Joker,"$55,000,000",Crime Drama Thriller
+41,Star Wars: Episode IX - The Rise of Skywalker,"$275,000,000",Action Adventure Fantasy Sci-Fi
+42,Toy Story 4,"$200,000,000",Adventure Animation Comedy Family Fantasy
+43,Toy Story 3,"$200,000,000",Adventure Animation Comedy Family Fantasy
+44,Pirates of the Caribbean: Dead Man's Chest,"$225,000,000",Action Adventure Fantasy
+45,Moana 2,N/A,Adventure Animation Comedy Family Fantasy Musical
+46,Rogue One: A Star Wars Story,"$200,000,000",Action Adventure Sci-Fi
+47,Aladdin,"$183,000,000",Adventure Comedy Family Fantasy Musical Romance
+48,Pirates of the Caribbean: On Stranger Tides,"$250,000,000",Action Adventure Fantasy
+49,Star Wars: Episode I - The Phantom Menace,"$115,000,000",Action Adventure Fantasy Sci-Fi
+50,Despicable Me 3,"$80,000,000",Adventure Animation Comedy Crime Family Sci-Fi
+51,Finding Dory,N/A,Adventure Animation Comedy Family Fantasy Mystery
+52,Harry Potter and the Sorcerer's Stone,"$125,000,000",Adventure Family Fantasy
+53,Zootopia,N/A,Action Adventure Animation Comedy Crime Family Mystery
+54,Alice in Wonderland,"$200,000,000",Adventure Family Fantasy Mystery
+55,The Hobbit: An Unexpected Journey,N/A,Adventure Fantasy
+56,The Dark Knight,"$185,000,000",Action Crime Drama Thriller
+57,Jurassic World: Dominion,N/A,Action Adventure Sci-Fi Thriller
+58,The Lion King,"$45,000,000",Adventure Animation Drama Family Musical
+59,Oppenheimer,N/A,Biography Drama History
+60,Lilo & Stitch,N/A,Action Adventure Comedy Drama Family Fantasy Sci-Fi
+61,Despicable Me 2,"$76,000,000",Adventure Animation Comedy Crime Family Sci-Fi
+62,Despicable Me 4,N/A,Adventure Animation Comedy Crime Family Sci-Fi
+63,The Jungle Book,"$175,000,000",Action Adventure Animation Drama Family Fantasy Musical
+401,Happy Feet,"$100,000,000",Adventure Animation Comedy Family Music Musical Romance
+402,Indiana Jones and the Dial of Destiny,N/A,Action Adventure Sci-Fi
+403,Cars 3,N/A,Adventure Animation Comedy Family Sport
+404,Ice Age,"$59,000,000",Adventure Animation Comedy Family
+405,Thunderbolts*,N/A,Action Adventure Crime Drama Fantasy Sci-Fi
+406,Fifty Shades Darker,"$55,000,000",Drama Mystery Romance Thriller
+407,Monsters vs. Aliens,"$175,000,000",Action Adventure Animation Comedy Family Fantasy Sci-Fi
+408,Edge of Tomorrow,"$178,000,000",Action Adventure Sci-Fi
+409,Mad Max: Fury Road,"$150,000,000",Action Adventure Sci-Fi
+410,Black Widow,N/A,Action Adventure Sci-Fi
+411,Godzilla,"$130,000,000",Action Sci-Fi Thriller
+64,Jumanji: Welcome to the Jungle,"$90,000,000",Action Adventure Comedy Fantasy
+65,The Hobbit: The Battle of the Five Armies,N/A,Adventure Fantasy
+66,Pirates of the Caribbean: At World's End,"$300,000,000",Action Adventure Fantasy
+67,Harry Potter and the Deathly Hallows: Part 1,N/A,Adventure Family Fantasy Mystery
+68,The Hobbit: The Desolation of Smaug,N/A,Adventure Fantasy
+69,Doctor Strange in the Multiverse of Madness,N/A,Action Adventure Fantasy Sci-Fi
+70,A Minecraft Movie,N/A,Action Adventure Comedy Family Fantasy
+71,Harry Potter and the Order of the Phoenix,"$150,000,000",Action Adventure Family Fantasy Mystery
+72,Finding Nemo,"$94,000,000",Adventure Animation Comedy Family
+73,Harry Potter and the Half-Blood Prince,"$250,000,000",Action Adventure Family Fantasy Mystery
+74,Minions: The Rise of Gru,N/A,Adventure Animation Comedy Crime Family Sci-Fi
+75,The Lord of the Rings: The Two Towers,"$94,000,000",Adventure Drama Fantasy
+76,Shrek 2,"$150,000,000",Adventure Animation Comedy Family Fantasy Romance
+77,Bohemian Rhapsody,"$52,000,000",Biography Drama Music
+78,Star Wars: Episode III - Revenge of the Sith,"$113,000,000",Action Adventure Fantasy Sci-Fi
+79,The Battle at Lake Changjin,N/A,Action Drama History War
+80,Harry Potter and the Goblet of Fire,"$150,000,000",Adventure Family Fantasy Mystery
+81,Spider-Man 3,"$258,000,000",Action Adventure Sci-Fi
+82,The Lord of the Rings: The Fellowship of the Ring,"$93,000,000",Adventure Drama Fantasy
+83,Ice Age: Dawn of the Dinosaurs,"$90,000,000",Adventure Animation Comedy Family
+84,Harry Potter and the Chamber of Secrets,"$100,000,000",Adventure Family Fantasy Mystery
+85,Spider-Man: Homecoming,"$175,000,000",Action Adventure Sci-Fi
+86,Spectre,"$245,000,000",Action Adventure Thriller
+87,Ice Age: Continental Drift,"$95,000,000",Adventure Animation Comedy Family
+88,The Secret Life of Pets,"$75,000,000",Adventure Animation Comedy Family
+89,Batman v Superman: Dawn of Justice,"$250,000,000",Action Adventure Sci-Fi
+90,Wolf Warrior 2,"$30,100,000",Action Adventure Drama Thriller War
+91,The Hunger Games: Catching Fire,"$130,000,000",Action Adventure Sci-Fi Thriller
+92,Guardians of the Galaxy Vol. 2,"$200,000,000",Action Adventure Comedy Sci-Fi
+93,Black Panther: Wakanda Forever,N/A,Action Adventure Drama Sci-Fi
+94,Inside Out,"$175,000,000",Adventure Animation Comedy Drama Family Fantasy
+95,Venom,"$100,000,000",Action Adventure Sci-Fi
+96,Thor: Ragnarok,"$180,000,000",Action Adventure Comedy Fantasy Sci-Fi
+97,The Twilight Saga: Breaking Dawn - Part 2,"$120,000,000",Adventure Drama Fantasy Romance
+98,Guardians of the Galaxy Vol. 3,N/A,Action Adventure Comedy Sci-Fi
+99,Inception,"$160,000,000",Action Adventure Sci-Fi Thriller
+100,Transformers: Revenge of the Fallen,"$200,000,000",Action Adventure Sci-Fi
+412,True Lies,"$115,000,000",Action Comedy Thriller
+413,Slumdog Millionaire,"$15,000,000",Crime Drama Romance
+414,Taken 2,"$45,000,000",Action Crime Thriller
+415,G.I. Joe: Retaliation,"$130,000,000",Action Adventure Sci-Fi Thriller
+416,Batman Begins,"$150,000,000",Action Crime Drama Thriller
+417,Shark Tale,"$75,000,000",Adventure Animation Comedy Family Thriller
+418,What Women Want,"$70,000,000",Comedy Fantasy Romance
+419,The Adventures of Tintin,N/A,Action Adventure Animation Family Mystery
+420,Penguins of Madagascar,"$132,000,000",Action Adventure Animation Comedy Crime Family Sci-Fi
+421,X-Men Origins: Wolverine,"$150,000,000",Action Sci-Fi
+422,Creation of the Gods I: Kingdom of Storms,N/A,Action Adventure Drama Fantasy
+423,Twisters,N/A,Action Adventure Thriller
+424,The Golden Compass,"$180,000,000",Adventure Family Fantasy
+425,Fifty Shades Freed,"$55,000,000",Drama Mystery Romance Thriller
+426,Hitch,"$70,000,000",Comedy Romance
+427,Terminator Salvation,"$200,000,000",Action Adventure Sci-Fi
+428,Gone Girl,"$61,000,000",Drama Mystery Thriller
+429,Captain America: The First Avenger,"$140,000,000",Action Adventure Sci-Fi
+430,There's Something About Mary,"$23,000,000",Comedy Romance
+431,The Fugitive,N/A,Action Crime Drama Mystery Thriller
+432,Jurassic Park III,"$93,000,000",Action Adventure Sci-Fi Thriller
+433,My Big Fat Greek Wedding,"$5,000,000",Comedy Drama Romance
+434,Shazam!,"$100,000,000",Action Adventure Comedy Fantasy
+435,Hello Mr. Billionaire,N/A,Comedy
+436,Die Hard with a Vengeance,"$90,000,000",Action Adventure Thriller
+437,The Nun,"$22,000,000",Horror Mystery Thriller
+438,Sinners,N/A,Action Drama Horror Music Thriller
+439,Alvin and the Chipmunks,"$60,000,000",Adventure Animation Comedy Family Fantasy Music Musical
+440,Tenet,N/A,Action Sci-Fi Thriller
+441,Notting Hill,"$42,000,000",Comedy Drama Romance
+442,A Bug's Life,"$120,000,000",Adventure Animation Comedy Family
+443,Night at the Museum: Secret of the Tomb,"$127,000,000",Adventure Comedy Family Fantasy
+444,Ocean's Twelve,"$110,000,000",Crime Thriller
+445,Mary Poppins Returns,"$130,000,000",Adventure Comedy Family Fantasy Music Musical
+446,Planet of the Apes,"$100,000,000",Action Adventure Sci-Fi Thriller
+447,The Hangover Part III,"$103,000,000",Comedy Crime
+448,The World Is Not Enough,"$135,000,000",Action Adventure Thriller
+449,Monster Hunt 2,N/A,Adventure Comedy Fantasy Sci-Fi
+450,Fast & Furious,"$85,000,000",Action Thriller
+451,Spirited Away,N/A,Adventure Animation Family Fantasy Mystery
+452,Noah,"$125,000,000",Action Adventure Drama
+453,The Karate Kid,"$40,000,000",Action Drama Family Sport
+454,Home Alone 2: Lost in New York,N/A,Adventure Comedy Crime Family
+455,Hotel Transylvania,"$85,000,000",Animation Comedy Family Fantasy
+456,Minority Report,"$102,000,000",Action Crime Mystery Sci-Fi Thriller
+457,Top Gun,N/A,Action Drama
+458,The Legend of Tarzan,"$180,000,000",Action Adventure Drama Fantasy Romance
+459,American Beauty,"$15,000,000",Drama
+460,Apollo 13,N/A,Adventure Drama History
+461,Rain Man,"$25,000,000",Drama
+462,The Great Gatsby,"$105,000,000",Drama Romance
+463,Dumbo,"$170,000,000",Adventure Family Fantasy
+464,"I, Robot","$120,000,000",Action Mystery Sci-Fi Thriller
+465,Basic Instinct,"$49,000,000",Drama Mystery Thriller
+466,Murder on the Orient Express,"$55,000,000",Crime Drama Mystery Thriller
+467,X-Men: First Class,"$160,000,000",Action Sci-Fi
+468,The Angry Birds Movie,"$73,000,000",Action Adventure Animation Comedy Family
+469,GoldenEye,N/A,Action Adventure Thriller
+470,Catch Me If You Can,"$52,000,000",Biography Crime Drama
+471,Now You See Me,"$75,000,000",Crime Mystery Thriller
+472,Hannibal,"$87,000,000",Crime Drama Thriller
+473,The Mask,"$23,000,000",Comedy Crime Fantasy
+474,Peter Rabbit,"$50,000,000",Adventure Animation Comedy Drama Family Fantasy
+475,It Ends with Us,N/A,Drama Romance
+476,Alien: Romulus,N/A,Horror Sci-Fi Thriller
+477,Speed,"$30,000,000",Action Adventure Thriller
+478,Dinosaur,"$127,500,000",Adventure Animation Drama Family Fantasy
+479,Deep Impact,N/A,Action Drama Sci-Fi Thriller
+480,The Lorax,"$70,000,000",Adventure Animation Comedy Drama Family Fantasy Musical
+481,The Hunger Games: The Ballad of Songbirds & Snakes,N/A,Action Adventure Drama Sci-Fi Thriller War
+482,The Maze Runner,"$34,000,000",Action Mystery Sci-Fi Thriller
+483,The Smurfs 2,"$105,000,000",Adventure Animation Comedy Family Fantasy
+484,National Treasure,"$100,000,000",Action Adventure Mystery Thriller
+485,Trolls,"$125,000,000",Adventure Animation Comedy Family Fantasy Musical
+486,Rush Hour 2,"$90,000,000",Action Comedy Crime Thriller
+487,How the Grinch Stole Christmas,"$123,000,000",Comedy Family Fantasy
+488,xXx: Return of Xander Cage,"$85,000,000",Action Adventure Thriller
+489,Pocahontas,N/A,Adventure Animation Drama Family Musical Romance
+490,Star Trek Beyond,"$185,000,000",Action Adventure Sci-Fi Thriller
+491,Alvin and the Chipmunks: Chipwrecked,"$75,000,000",Adventure Animation Comedy Family Fantasy Music Musical
+492,Wanted,"$75,000,000",Action Crime Thriller
+493,The Flintstones,"$46,000,000",Comedy Family Fantasy
+494,A Quiet Place,"$17,000,000",Drama Horror Sci-Fi
+495,Enchanted,"$85,000,000",Adventure Animation Comedy Family Fantasy Musical Romance
+496,Over the Hedge,N/A,Adventure Animation Comedy Family
+497,300: Rise of an Empire,"$110,000,000",Action Drama
+498,Batman Forever,"$100,000,000",Action Adventure
+499,Prince of Persia: The Sands of Time,"$200,000,000",Action Adventure Fantasy
+500,The Curious Case of Benjamin Button,"$150,000,000",Drama Fantasy Romance
+101,Spider-Man,"$139,000,000",Action Adventure Sci-Fi
+102,Mission: Impossible - Fallout,"$178,000,000",Action Adventure Thriller
+103,Wonder Woman,"$149,000,000",Action Adventure Fantasy Sci-Fi War
+104,"Hi, Mom",N/A,Comedy Drama Fantasy
+105,Independence Day,"$75,000,000",Action Adventure Sci-Fi
+106,Fantastic Beasts and Where to Find Them,"$180,000,000",Adventure Family Fantasy
+107,Coco,N/A,Adventure Animation Drama Family Fantasy Music Mystery
+108,Harry Potter and the Prisoner of Azkaban,"$130,000,000",Adventure Family Fantasy Mystery
+109,Shrek the Third,"$160,000,000",Adventure Animation Comedy Family Fantasy Romance
+110,Jumanji: The Next Level,"$125,000,000",Action Adventure Comedy Fantasy
+111,E.T. the Extra-Terrestrial,"$10,500,000",Adventure Family Sci-Fi
+112,Pirates of the Caribbean: Dead Men Tell No Tales,"$230,000,000",Action Adventure Fantasy
+113,2012,"$200,000,000",Action Adventure Sci-Fi
+114,Fast & Furious 6,"$160,000,000",Action Thriller
+115,Indiana Jones and the Kingdom of the Crystal Skull,"$185,000,000",Action Adventure
+116,Deadpool 2,"$110,000,000",Action Adventure Comedy Sci-Fi
+117,Spider-Man 2,"$200,000,000",Action Adventure Sci-Fi
+118,Deadpool,"$58,000,000",Action Comedy Sci-Fi
+119,Star Wars: Episode IV - A New Hope,"$11,000,000",Action Adventure Fantasy Sci-Fi
+120,No Time to Die,N/A,Action Adventure Thriller
+121,Guardians of the Galaxy,"$170,000,000",Action Adventure Comedy Sci-Fi
+122,The Batman,N/A,Action Crime Drama Mystery Thriller
+123,Thor: Love and Thunder,N/A,Action Adventure Comedy Romance Sci-Fi
+124,Fast & Furious Presents: Hobbs & Shaw,"$200,000,000",Action Adventure Thriller
+125,The Da Vinci Code,"$125,000,000",Mystery Thriller
+126,Maleficent,"$180,000,000",Action Adventure Drama Family Fantasy Romance
+127,The Hunger Games: Mockingjay - Part 1,"$125,000,000",Action Adventure Sci-Fi Thriller
+128,The Amazing Spider-Man,"$230,000,000",Action Sci-Fi
+129,Interstellar,"$165,000,000",Adventure Drama Sci-Fi
+130,Wicked,N/A,Fantasy Musical Romance
+131,Shrek Forever After,"$165,000,000",Adventure Animation Comedy Family Fantasy Romance
+132,Suicide Squad,"$175,000,000",Action Adventure Fantasy Sci-Fi
+133,Madagascar 3: Europe's Most Wanted,"$145,000,000",Adventure Animation Comedy Family
+134,X-Men: Days of Future Past,"$200,000,000",Action Adventure Sci-Fi Thriller
+135,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","$180,000,000",Adventure Family Fantasy
+136,Monsters University,N/A,Adventure Animation Comedy Family Fantasy
+137,The Matrix Reloaded,"$150,000,000",Action Sci-Fi
+138,Up,"$175,000,000",Adventure Animation Comedy Drama Family
+139,F9: The Fast Saga,N/A,Action Crime Thriller
+140,Ne Zha,N/A,Action Adventure Animation Fantasy Thriller
+141,Gravity,"$100,000,000",Drama Sci-Fi Thriller
+501,Journey 2: The Mysterious Island,"$79,000,000",Action Adventure Comedy Family Fantasy Sci-Fi
+502,The Rock,"$75,000,000",Action Adventure Thriller
+503,The Great Wall,"$150,000,000",Action Adventure Fantasy Thriller
+504,Now You See Me 2,N/A,Action Adventure Comedy Crime Mystery Thriller
+505,Never Say Die,N/A,Comedy Fantasy Sport
+506,Jurassic World: Rebirth,N/A,Action Adventure Sci-Fi Thriller
+507,Fantastic Four,"$100,000,000",Action Adventure Fantasy Sci-Fi
+508,The Wild Robot,N/A,Adventure Animation Family Sci-Fi
+509,Indiana Jones and the Temple of Doom,"$28,000,000",Action Adventure
+510,Tomorrow Never Dies,N/A,Action Adventure Thriller
+511,Back to the Future Part II,"$40,000,000",Adventure Comedy Sci-Fi
+142,Mufasa: The Lion King,N/A,Adventure Animation Drama Family Musical
+143,The Amazing Spider-Man 2,N/A,Action Adventure Sci-Fi
+144,Dune: Part Two,N/A,Action Adventure Drama Sci-Fi
+145,Captain America: The Winter Soldier,"$170,000,000",Action Adventure Sci-Fi Thriller
+146,The Twilight Saga: Breaking Dawn - Part 1,"$110,000,000",Adventure Drama Fantasy Romance Thriller
+147,The Twilight Saga: New Moon,"$50,000,000",Adventure Drama Fantasy Romance
+148,Mission: Impossible - Rogue Nation,"$150,000,000",Action Adventure Thriller
+149,Dawn of the Planet of the Apes,"$170,000,000",Action Adventure Drama Sci-Fi Thriller
+150,Transformers,"$150,000,000",Action Adventure Sci-Fi
+151,Mamma Mia!,"$52,000,000",Comedy Musical Romance
+152,Fast X,N/A,Action Adventure Crime Mystery Thriller
+153,It,"$35,000,000",Horror
+154,The Wandering Earth,N/A,Action Adventure Sci-Fi Thriller
+155,The Twilight Saga: Eclipse,"$68,000,000",Action Adventure Drama Fantasy Mystery Romance Thriller
+156,The Hunger Games,"$78,000,000",Action Adventure Sci-Fi Thriller
+157,Mission: Impossible - Ghost Protocol,"$145,000,000",Action Adventure Thriller
+158,Spider-Man: Across the Spider-Verse,N/A,Action Adventure Animation Family Fantasy Sci-Fi
+159,Detective Chinatown 3,N/A,Action Adventure Comedy Mystery
+160,Forrest Gump,"$55,000,000",Drama Romance
+161,Doctor Strange,"$165,000,000",Action Adventure Fantasy Sci-Fi
+162,The Sixth Sense,"$40,000,000",Drama Mystery Thriller
+163,Full River Red,N/A,Comedy Drama History Mystery
+164,Man of Steel,"$225,000,000",Action Adventure Sci-Fi
+165,Ice Age 2: The Meltdown,"$80,000,000",Adventure Animation Comedy Family
+166,Kung Fu Panda 2,"$150,000,000",Action Adventure Animation Comedy Drama Family Fantasy Thriller
+167,The Hunger Games: Mockingjay - Part 2,"$160,000,000",Action Adventure Sci-Fi Thriller
+168,Justice League,N/A,Action Adventure Fantasy Sci-Fi
+169,Big Hero 6,"$165,000,000",Action Adventure Animation Comedy Crime Family Sci-Fi
+170,Fantastic Beasts: The Crimes of Grindelwald,"$200,000,000",Adventure Family Fantasy
+171,Pirates of the Caribbean: The Curse of the Black Pearl,"$140,000,000",Action Adventure Fantasy
+172,Men in Black³,"$225,000,000",Action Adventure Comedy Sci-Fi
+173,Star Wars: Episode II - Attack of the Clones,"$115,000,000",Action Adventure Fantasy Sci-Fi
+174,Thor: The Dark World,"$170,000,000",Action Adventure Fantasy Sci-Fi
+175,Moana,N/A,Adventure Animation Comedy Family Fantasy Musical
+176,Wonka,N/A,Adventure Comedy Family Fantasy Musical
+177,Sing,"$75,000,000",Animation Comedy Family Musical
+178,Kung Fu Panda,"$130,000,000",Action Adventure Animation Comedy Family Fantasy
+179,The Incredibles,"$92,000,000",Action Adventure Animation Family
+180,The Martian,"$108,000,000",Adventure Drama Sci-Fi
+181,Hancock,"$150,000,000",Action Comedy Drama Fantasy
+182,Water Gate Bridge,N/A,Action Drama History War
+183,Fast Five,"$125,000,000",Action Crime Thriller
+184,Iron Man 2,"$200,000,000",Action Sci-Fi
+185,Ratatouille,"$150,000,000",Adventure Animation Comedy Family Fantasy
+512,The Good Dinosaur,N/A,Action Adventure Animation Comedy Drama Family Fantasy
+513,Little Women,"$40,000,000",Drama Romance
+514,Free Guy,N/A,Action Adventure Comedy Fantasy Romance Sci-Fi
+515,22 Jump Street,"$50,000,000",Action Comedy Crime
+516,Meet the Parents,"$55,000,000",Comedy Romance
+517,Who Framed Roger Rabbit,"$70,000,000",Adventure Animation Comedy Crime Family Fantasy Mystery
+518,Black Swan,"$13,000,000",Drama Thriller
+519,Seven,"$33,000,000",Crime Drama Mystery Thriller
+520,The Perfect Storm,"$140,000,000",Action Adventure Drama Thriller
+521,John Wick: Chapter 3 - Parabellum,"$75,000,000",Action Crime Drama Thriller
+522,Crocodile Dundee,N/A,Adventure Comedy
+523,Crazy Alien,N/A,Comedy Sci-Fi
+524,The Devil Wears Prada,"$35,000,000",Comedy Drama
+525,Taken 3,"$48,000,000",Action Crime Thriller
+526,Paddington,"$55,000,000",Adventure Comedy Family Fantasy
+527,The Hunchback of Notre Dame,"$100,000,000",Animation Drama Family Musical Romance
+528,A Christmas Carol,"$200,000,000",Adventure Animation Comedy Drama Family Fantasy
+529,The SpongeBob Movie: Sponge Out of Water,"$74,000,000",Adventure Animation Comedy Family Fantasy
+530,Bridesmaids,"$32,500,000",Comedy
+531,The Conjuring 2,"$40,000,000",Horror Mystery Thriller
+532,Schindler's List,"$22,000,000",Biography Drama History
+533,Megamind,"$130,000,000",Action Adventure Animation Comedy Crime Family Fantasy Sci-Fi
+534,Green Book,"$23,000,000",Biography Comedy Drama Music
+535,Lethal Weapon 3,"$35,000,000",Action Crime Thriller
+536,Robin Hood,"$200,000,000",Action Adventure Drama History
+537,Inglourious Basterds,"$70,000,000",Adventure Drama War
+538,101 Dalmatians,N/A,Adventure Comedy Crime Family
+539,The Conjuring,"$20,000,000",Horror Mystery Thriller
+540,Fatal Attraction,N/A,Drama Thriller
+541,Sonic the Hedgehog,"$85,000,000",Action Adventure Comedy Family Fantasy Sci-Fi
+542,The Last Airbender,"$150,000,000",Action Adventure Family Fantasy
+543,The Polar Express,"$165,000,000",Adventure Animation Family Fantasy Musical
+544,The Proposal,"$40,000,000",Comedy Drama Romance
+545,A Beautiful Mind,"$58,000,000",Biography Drama Mystery
+546,Beverly Hills Cop,N/A,Action Comedy Crime Thriller
+547,Air Force One,"$85,000,000",Action Crime Drama Thriller
+186,Ant-Man and the Wasp,N/A,Action Adventure Comedy Sci-Fi
+187,How to Train Your Dragon 2,"$145,000,000",Action Adventure Animation Comedy Family Fantasy
+188,Logan,"$97,000,000",Action Drama Sci-Fi Thriller
+189,The Lost World: Jurassic Park,"$73,000,000",Action Adventure Sci-Fi
+190,Casino Royale,"$150,000,000",Action Adventure Thriller
+191,The Wandering Earth II,N/A,Action Adventure Drama Sci-Fi
+192,The Passion of the Christ,"$30,000,000",Drama
+193,Life of Pi,"$120,000,000",Adventure Drama Fantasy
+194,Ready Player One,"$175,000,000",Action Adventure Sci-Fi
+195,Transformers: The Last Knight,"$217,000,000",Action Adventure Comedy Sci-Fi Thriller
+196,Madagascar: Escape 2 Africa,"$150,000,000",Adventure Animation Comedy Family
+197,War of the Worlds,"$132,000,000",Action Adventure Sci-Fi
+198,Tangled,"$260,000,000",Adventure Animation Comedy Family Fantasy Musical Romance
+199,Quantum of Solace,"$200,000,000",Action Adventure Mystery Thriller
+200,Men in Black,"$90,000,000",Action Adventure Comedy Sci-Fi
+548,Wonder,N/A,Drama Family
+549,The Expendables 2,"$100,000,000",Action Adventure Thriller
+550,Chicken Little,"$150,000,000",Adventure Animation Comedy Family Fantasy Sci-Fi
+551,As Good as It Gets,"$50,000,000",Comedy Drama Romance
+552,Austin Powers: The Spy Who Shagged Me,"$33,000,000",Action Adventure Comedy Crime
+553,Knives Out,"$40,000,000",Comedy Crime Drama Mystery Thriller
+554,The Lego Batman Movie,"$80,000,000",Action Adventure Animation Comedy Family Fantasy Sci-Fi
+555,Maze Runner: The Scorch Trials,"$61,000,000",Action Adventure Sci-Fi Thriller
+556,Resident Evil: The Final Chapter,"$40,000,000",Action Horror Sci-Fi
+557,Ocean's Thirteen,N/A,Crime Thriller
+558,Little Fockers,"$100,000,000",Comedy Romance
+559,Bolt,"$150,000,000",Adventure Animation Comedy Crime Drama Family Sci-Fi
+560,Ransom,N/A,Action Crime Drama Thriller
+561,Runaway Bride,"$70,000,000",Comedy Romance
+562,The Blind Side,"$29,000,000",Biography Drama Sport
+563,The Ex-File 3: Return of the Exes,N/A,Comedy Romance
+564,The Fault in Our Stars,"$12,000,000",Drama Romance
+565,The Pursuit of Happyness,"$55,000,000",Biography Drama
+566,Rise of the Guardians,"$145,000,000",Action Adventure Animation Comedy Drama Family Fantasy Sci-Fi
+567,Article 20,N/A,Drama
+568,Close Encounters of the Third Kind,"$20,000,000",Drama Sci-Fi
+569,Chicago,"$45,000,000",Comedy Crime Musical
+570,Annabelle: Creation,"$15,000,000",Horror Mystery Thriller
+571,Skyscraper,"$125,000,000",Action Adventure Thriller
+572,A Good Day to Die Hard,"$92,000,000",Action Thriller
+573,Mulan,N/A,Adventure Animation Comedy Family Fantasy Musical War
+574,Dangal,N/A,Action Biography Drama Sport
+575,Passengers,"$110,000,000",Drama Romance Sci-Fi Thriller
+576,Battleship,"$209,000,000",Action Adventure Sci-Fi Thriller
+577,Liar Liar,N/A,Comedy Fantasy
+578,G.I. Joe: The Rise of Cobra,"$175,000,000",Action Adventure Sci-Fi Thriller
+579,Wrath of the Titans,"$150,000,000",Action Adventure Fantasy
+580,Never Say Never,N/A,Action Drama Sport
+581,Fantastic Four: Rise of the Silver Surfer,"$130,000,000",Action Adventure Fantasy Sci-Fi
+582,F1: The Movie,N/A,Action Drama Sport
+583,Hook,"$70,000,000",Adventure Comedy Family Fantasy
+584,Superman,"$55,000,000",Action Adventure Sci-Fi
+585,Rocky IV,N/A,Drama Sport
+586,Rambo: First Blood Part II,N/A,Action Adventure Thriller
+587,Resident Evil: Afterlife,"$60,000,000",Action Horror Sci-Fi
+588,Migration,N/A,Adventure Animation Comedy Family
+589,Van Helsing,"$160,000,000",Action Adventure Fantasy Thriller
+590,Stuart Little,"$133,000,000",Adventure Comedy Family Fantasy
+591,Beverly Hills Cop II,N/A,Action Comedy Crime Thriller
+592,Alice Through the Looking Glass,"$170,000,000",Adventure Family Fantasy Mystery
+593,My Best Friend's Wedding,"$38,000,000",Comedy Drama Romance
+594,Real Steel,N/A,Action Drama Sci-Fi Sport
+595,Horton Hears a Who!,"$85,000,000",Adventure Animation Comedy Drama Family Fantasy Music
+596,Ocean's Eight,"$70,000,000",Action Comedy Crime
+597,A Quiet Place Part II,N/A,Drama Horror Sci-Fi Thriller
+598,Insurgent,"$110,000,000",Action Adventure Sci-Fi Thriller
+599,Look Who's Talking,N/A,Comedy
+600,Austin Powers in Goldmember,"$63,000,000",Action Adventure Comedy Crime
