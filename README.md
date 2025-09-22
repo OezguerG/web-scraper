@@ -5,17 +5,31 @@ Daten zu Film-Budgets, Einnahmen und Genres werden mit **Scrapy** gesammelt, mit
 
 ---
 
+1. Abhängigkeiten installieren:  
+   - Im Ordner **server**:  
+     ```bash
+     cd server
+     npm install
+     ```  
+   - Im Ordner **client**:  
+     ```bash
+     cd client
+     npm install
+     ```  
+
 # Installation
-## Windows
-python -m venv venv
-venv\Scripts\activate
-pip install -r requirements.txt
-
-## Linux / macOS
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-
+- In **Windows**:
+  ```bash
+  python -m venv venv
+  venv\Scripts\activate
+  pip install -r requirements.txt
+  ```  
+- In **Linux**:
+  ```bash
+  python3 -m venv venv
+  source venv/bin/activate
+  pip install -r requirements.txt
+  ``` 
 ---
 
 ## Nutzung
